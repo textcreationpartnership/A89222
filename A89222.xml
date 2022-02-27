@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made in the House of Peeres. By the Right Honourable the Earle of Monmouth, on Thursday the thirteenth of Ianuary 1641 Upon the occasion of the present destractions, and of his Majesties removall from White-hall. VVith the humble petition of the inhabitants of the county of Buckingham, in the behalfe of Mr. Hampden, knight for the said county, and of the rest of the said members of Parliament, accused by his Majestie of treason. With his Majesties gratious answer thereunto. As also the humble petition of divers of the knights, gentlemen, clergy and and [sic] other inhabitants of the county of Sommerset. With the last true newes from Ireland.</title>
+            <author>Monmouth, Henry Carey, Earl of, 1596-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89222</idno>
+            <idno type="STC">Wing M2426</idno>
+            <idno type="STC">ESTC R230731</idno>
+            <idno type="EEBO-CITATION">99896452</idno>
+            <idno type="PROQUEST">99896452</idno>
+            <idno type="VID">154289</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154289)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2409:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made in the House of Peeres. By the Right Honourable the Earle of Monmouth, on Thursday the thirteenth of Ianuary 1641 Upon the occasion of the present destractions, and of his Majesties removall from White-hall. VVith the humble petition of the inhabitants of the county of Buckingham, in the behalfe of Mr. Hampden, knight for the said county, and of the rest of the said members of Parliament, accused by his Majestie of treason. With his Majesties gratious answer thereunto. As also the humble petition of divers of the knights, gentlemen, clergy and and [sic] other inhabitants of the county of Sommerset. With the last true newes from Ireland.</title>
+                  <author>Monmouth, Henry Carey, Earl of, 1596-1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The year is given according to Lady Day dating.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154289:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:154289:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <p>A SPEECH Made in the Houſe of PEERES.</p>
+            <p>By the right Honorable the Earle of <hi>Monmouth,</hi> on Thurſday the Thirteenth of <hi>Ianuary</hi> 1641.</p>
+            <p>Vpon the occaſion of the preſent deſtractions, and of his Majeſties removall from <hi>White-hall.</hi>
+            </p>
+            <p>With the Humble Petition of the Inhabitants of the County of <hi>Buckingham,</hi> In the behalfe of Mr. <hi>Hampden,</hi> Knight for the ſaid County, and of the reſt of the ſaid members of Parlia<g ref="char:EOLhyphen"/>ment, accuſed by his Majeſtie of Treaſon.</p>
+            <p>With his Majeſties gratious anſwer thereunto.</p>
+            <p>As alſo the Humble Petition of di<g ref="char:EOLhyphen"/>vers of the Knights, Gentlemen, Clergy and and other Inhabitants of the County of <hi>SOMMERSET.</hi>
+            </p>
+            <p>With the laſt true newes from <hi>Ireland.</hi>
+            </p>
+            <p>Printed in the yeare, 1641.</p>
+            <pb facs="tcp:154289:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 69 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:154289:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 69 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:154289:3"/>
+            <!-- PDF PAGE 70 -->
+            <head>A Speech made in the Houſe of Peeres, by the Right Honorable Earle of <hi>Monmouth</hi> on Thurſday the the 13. of <hi>Ianuary.</hi> 1641.</head>
+            <opener>
+               <salute>My Lords.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall deſire to be heard ſpeake a few wordes, which I would much rather have heard ſpoken by any of your Lordſhips, that ſo they might have a happier and a more handſome expreſ<g ref="char:EOLhyphen"/>ſion; though with a better heart, and clearer intentions they could not have beene ſpoken.</p>
+            <p>The ſad condition wee are now in (my Lords) is ſuch as is too apparent to any man, who hath but halfe an eye: the City of <hi>London</hi> is full of jealouſies &amp; appre<g ref="char:EOLhyphen"/>henſions, wee fit not here free from feares; the King hath with-drawne himſelfe from hence, together with his Queene and children, out of a beleife, (as I con<g ref="char:EOLhyphen"/>ceive) that his Majeſties Perſon was not fafe here. While things continue in this poſture (ſay Lords) wee may well feare an impairing, wee can <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rdly  hope for the bettering of affaires<g ref="char:punc">▪</g> God h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>  plac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s (my Lords)
+<pb n="3" facs="tcp:154289:3"/>
+               <!-- PDF PAGE 70 -->in the Medium betwixt the King and his people, let us play our parts (my Lords) let us doe our duties, and diſ<g ref="char:EOLhyphen"/>charge our conſciences; let us really prove, what wee are by Name, Noblemen; let us endeavour to work a perfect and a true underſtanding, betweene the King and his people: let us freely unboſome out ſelves to his Majeſty; and deſire that his Majeſty will be pleaſed to doe ſo to us; and to this end, (my Lords) which is the end of my motion, if it ſhall be approved of by your Lordſhips, I do humbly move, that by way of confe<g ref="char:EOLhyphen"/>rence, or any other way, wee may deſire the Houſe of Commons to joyne with us; firſt in an humble petition to his Majeſty, that he would be graciouſly pleaſed to returne to his good City of <hi>London,</hi> as the ſafeſt place we conceive for his ſacred Perſon in theſe diſtemperd times; and then that they will likewiſe joyne with us in a Profeſſion or Proteſtation, that we will doe what in us lies to free his Majeſty from his feares; to take from the Citizens of <hi>London,</hi> and his Majeſties other ſubjects their jealouſies and apprehenſions; and that we will live and dye his Maieſties faithfull adviſors, counſellors and Loyall Subiects.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:154289:4"/>
+            <!-- PDF PAGE 71 -->
+            <head>The Humble Petition of the In habitants of the County of <hi>Buckingham.</hi>
+            </head>
+            <head type="sub">In the behalfe of Maſter <hi>Hampden</hi> Knight for the ſaid County, and of the reſt of the members of Parliament, accuſed by his Majeſtie of High Treaſon.</head>
+            <opener>Sheweth,</opener>
+            <p>THat your petioners having by vertue of your highnes writ choſen <hi>Iohn Hampden</hi> Eſquire Knight for our Shire in whoſe loyalty and wiſe<g ref="char:EOLhyphen"/>dome, we his Countreymen, and Neighbours have e<g ref="char:EOLhyphen"/>ver had good cauſe to coufide: how ever of late, to our no leſſe amazement then greife, wee finde him with other members of Parliament accuſed of Treaſon, and having taken to our ſerious conſideration, the man<g ref="char:EOLhyphen"/>ner of their impeachments we cannot but (under your Maieſties favour) conceive, that it doth ſo oppugne the rights of Parliaments, to the miaintenance whereof our Proteſtation bind us: That we beleive it is the ma<g ref="char:EOLhyphen"/>lice (which their zeale to your Maieſties ſervice, and the State, hath contracted) in the enewies to your Ma<g ref="char:EOLhyphen"/>ieſty, the Church, and common wealth hath occaſio<g ref="char:EOLhyphen"/>ned this fowle accuſation rather then any defert of theirs; who doe likewiſe through their ſides wound the iudgement and care of us your Petitioners, and others by whoſe choice they were preſented to the Houſe.</p>
+            <p>Your petitioners moſt humbly pray that <hi>Maſter Hamp<g ref="char:EOLhyphen"/>den,</hi> and the reſt that lye under the burden of that ac<g ref="char:EOLhyphen"/>cuſation may enjoy the Iuſt priviledges of Parliament.</p>
+            <closer>And your Petitioners will ever pray &amp;c.</closer>
+         </div>
+         <div type="reply_to_petition">
+            <pb facs="tcp:154289:4"/>
+            <!-- PDF PAGE 71 -->
+            <head>His Maieſties anſwer.</head>
+            <head type="sub">At the Court at <hi>Windſor</hi> the 13<hi>
+                  <hi rend="sup">th</hi>
+               </hi> of <hi>Ianuary.</hi> 1642.</head>
+            <p>HIs Maieſty being graciouſly pleaſed to let all his Subiects underſtand his care not (know<g ref="char:EOLhyphen"/>ingly) to violate in the leaſt degree, any of the Priviledges of Parliament, hath therefore lately by a Meſſage ſent by the Lord Keeper ſignified; That he is pleaſed (becauſe of the doubt that hath beene raiſed of the manner) to waive his former proceedings againſt the ſaid <hi>Maſter Hampden</hi> and the reſt mentioned in this Petition, concerning whom his Maieſty intends to pro<g ref="char:EOLhyphen"/>ceed in an unqueſtionable way. And then his Maieſty ſaith it will appeare that hee had ſo ſufficient grounds to queſtion them, as hee might not in Iuſtice to the Kingdome, and honour to himſelfe have forborne; and yet his Maieſty had much rather that the ſaid perſons ſhould prove innocent, then be found guilty, how ever, hee cannot conceive that their crimes can in any ſort reflect upon thoſe his good Subiects, who elected them to ſerve in Parliament.</p>
+         </div>
+         <div type="petition">
+            <head>The Humble Petition of the Knights, Gentle<g ref="char:EOLhyphen"/>men, Clargy and other Inhabitants of the County of <hi>Sommerſet.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat having with great ioy of mind often heard of the pious inclination of this Honourable Aſſembly unto the Refor<g ref="char:EOLhyphen"/>mation of Church Government, and having of late (not without ſome re<g ref="char:EOLhyphen"/>gret) ſeene a Petition in the name of the Knights,
+<pb n="6" facs="tcp:154289:5"/>
+               <!-- PDF PAGE 72 -->Gentlemen and others of this County, tending moſt to the Confirmation of Epiſcopall power: We have thought it our duty likewiſe to rouſe up our affection unto Gods cauſe, and in all humility to lay theſe ex<g ref="char:EOLhyphen"/>preſſions thereof at the feet of this great Councell, as being (under God) the chiefe Arbitrator betweene our ioy and ſorrow.</p>
+            <p>FOr the preſent Church Government, of what right it is wee may not diſpute, preſuming it to be ſubiect to the power of this Honourable aſſembly; Neither doth it much import how ancient it is, or how neere the Apoſtles dayes, ſeeing we know that in the dayes of the Apoſtles themſelves, the myſtery of iniquity be<g ref="char:EOLhyphen"/>gan to worke, and that by the efficatious operation of the ſame, the man of ſinne hath advanced himſelfe from the Epiſcopall chaire to the top of Antichriſtian Tyranny. But that this Government is the wifeſt and moſt pious that any people hath been bleſt withall ſince the Apoſtles days (what ever others may beleeve) we preſume is no part of the Creed of this great coun<g ref="char:EOLhyphen"/>cell; whoſe godly zeale in purging the corruptions, and puniſhing the enemie of the true Church, being alrea<g ref="char:EOLhyphen"/>dy in part made manifeſt, doth give us rather a inſt cauſe to hope that God hath yet ſome further bleſſing of Reformation for us, to be wrought by the ſame hands, In proſecution whereof, if it ſhall enter into your hearts at this time to give a deadly wound unto that power, againſt which you have received ſo many complaints, we are ſure you ſhall not walke in an un<g ref="char:EOLhyphen"/>knowne path, but ſuch as hath beene troden before you by almoſt all the Churches of God which have exchanged the ſuperſtition and bondage of Rome, for the glorious light and liberty of the Goſpell. Neither
+<pb n="7" facs="tcp:154289:5"/>
+               <!-- PDF PAGE 72 -->may it be conceived as the leaſt degree of indignity of<g ref="char:EOLhyphen"/>fered to the bleſſed memory of thoſe ancient or later Biſhops who have ſo well deſerved of the Church of God both in life and death, if that Government which they have adorned by their ſingular piety and vertues being through the corruption and wickedneſſe of thoſe which have ſucceeded them made intolerable, ſhall by your iuſt authority be aboliſhed. Or if the number and merit of learned and godly Biſhops famous in their ge<g ref="char:EOLhyphen"/>nerations be preſumed to be a reaſonable inducement for the continuation of that Government, we leave it to conſideration of this wiſe Councell, whether the great and far ſurpaſſing multitude of ambitious; ungod<g ref="char:EOLhyphen"/>ly, and infamous Prelates, in moſt Countries and Ages by-paſt, be not a more effectuall motive for the extirpa<g ref="char:EOLhyphen"/>tion of the ſame. Hereunto if we adde the preſent ex<g ref="char:EOLhyphen"/>perience even in theſe our dayes of their many inſolen<g ref="char:EOLhyphen"/>cies and ontrages againſt the truth and power of God<g ref="char:EOLhyphen"/>lineſſe, ſuppreſſing and corrupting Gods Ordinances, Vnhollowing his day, perſecuting his Miniſters; Their late miſchevous attempt to impoſe on us and our poſ<g ref="char:EOLhyphen"/>terity an in ſupportable Yoake of ſervitude and that which deſerveth the higheſt pitch of Zeale and all the bowels of this Honourable Senate, the notorious mul<g ref="char:EOLhyphen"/>titude of profane and ſcandalous Miniſters the moſt ac<g ref="char:EOLhyphen"/>tive and malitious enemies unto Reformation, and the authoritie from which it is deſired. Wee truſt that all this to gether, with much more well knowne to this Honorable Aſſembly, will be ſufficient to juſtify the feares wee have conceiued of ſo dangerous a power.</p>
+            <p>WHERE FORE being perſwaded in our mindes, that it will be a worke acceptable unto God, of great ad<g ref="char:EOLhyphen"/>vantage and comfort to the Churches of Chriſt, and no leſſe conducing to the ſaftie, peace and ſtrength of
+<pb n="8" facs="tcp:154289:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 73 -->all His Majeſtis eKingdomes? wee moſt humbly im<g ref="char:EOLhyphen"/>plore the Authority and zeale of this honuradle Aſ<g ref="char:EOLhyphen"/>ſembly to proceed unto the full accompliſhment of the ſame; And having laid the Axe to the root of this Tree, to do unto it as to a plant which the Heauenly Father hath not planted, that neither the ſpreading boughes of the ſame may over-ſhadow the Vineyeard of the Lord, nor the bitter fruit thereof make ſad the heart of the people of God any more for ever.</p>
+            <p>
+               <hi>THESE are the deſires of your most humble Petitioners, and wee are perſwaded, would have beene the expresſions of Multitudes more of true-hearted Chriſtians and Subiects, had there not beene ſome indirect practices uſed in ſoliciting the former Petion; whereby many wonne to ſubſcribe thereunto, who have ſit hence decla<g ref="char:EOLhyphen"/>red themſelves in the point of Epiſcopacie, to have beene at the doing thereof otherwiſe affected. Howbeit unto us it is ſufficient, that relying wholly on the good Providence of God, the pietie and wiſedome of this Ho<g ref="char:EOLhyphen"/>nourable aſſembly, and the ſincerity of our owne intenti<g ref="char:EOLhyphen"/>ons, wee cannot want the comforts of a good hope, while we have the liberty to powre out our ſoules unto Almigh<g ref="char:EOLhyphen"/>ty God to continne and encreaſed his favours and graci<g ref="char:EOLhyphen"/>ous aſpect towards this honourable &amp; religious aſſembly.</hi>
+            </p>
+            <p>SIr <hi>Simon Harcot</hi> and the Governer of <hi>Dublin</hi> Caſtle have diſarmed all Papiſts in <hi>Dublin,</hi> and have overthrowne the Rebells and killed many, ſo that no Rebell is to be ſeene within 7. miles of <hi>Dublin.</hi> The 9. of this moneth the Proteſtant Soldi<g ref="char:EOLhyphen"/>ers beate down the Maſſe houſe in <hi>Dublin,</hi> &amp; threatned to hang the Maſſe Prieſt, &amp; broke down all the Images &amp; ſpoyled their Trinkets. <hi>Tredath</hi> was ready to be relieved by ſea. That day we came away we ſaw the Iriſh make fires to raiſe more helpe, ſo their hopes will be fruſtrate. Corne is reaſonable at <hi>Dublin,</hi> con<g ref="char:EOLhyphen"/>ſidering our occaſions; the Ieſuites and roring Iriſh captaines would willingly be gone with the Proteſtants mony &amp; goods, but we hope they ſhall leave their heads firſt, if wee can but be ſupplyed gaine from England.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154289:6"/>
+            <!-- PDF PAGE 73 -->
+         </div>
+      </body>
+   </text>
+</TEI>
